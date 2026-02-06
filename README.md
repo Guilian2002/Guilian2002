@@ -16,14 +16,14 @@ J’aime comprendre, structurer et construire des solutions propres, maintenable
 ## 🚀 Compétences techniques
 
 ### 🔹 Langages
-- C#, C
+- C#, C, Blazor
 - Python, PHP, Java
 - HTML, CSS, JavaScript
 - SQL, PL/SQL, T-SQL
 - XML, HTMX
 
 ### 🔹 Frameworks & Technologies
-- ASP.NET / .NET
+- ASP.NET / .NET (MVC, ADO, EF)
 - Django (ORM, MVT, HTMX)
 - JEE
 - Angular (bases)
