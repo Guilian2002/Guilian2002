@@ -50,6 +50,8 @@ J’aime comprendre, structurer et construire des solutions propres, maintenable
 ---
 
 ## 🏢 Expérience
+- **Formation Architecte Logiciel & FullStack .NET** — *TechnofuturTIC, Gosselies*  
+  📅 Octobe 2025 → Mars 2026
 - **Stagiaire développeur d'applications** — *WOOGMA*  
   📅 Janvier 2024 → Mai 2024  
 - **Agent de tri** — *Bpost, Fleurus*  
